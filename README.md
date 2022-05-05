@@ -24,4 +24,8 @@ IDE used: Pycharm
 5. While loop is applied, if the given input is matched with alarm time mp3 file is played to report the user. 
 
 
+**IV. Applications & Future Scope**
+
+This is project can be developed as backend for laptop & computer applications with interactive GUI.
+
 
