@@ -5,7 +5,7 @@ import datetime #using datetime library because we are dealing with hours and mi
 alarmHour = int(input("Enter the Hour: "))#asking user to enter the hour
 alarmMin = int(input("Enter the Minute: "))#asking user to enter the minute
 Am_or_Pm = input("Am or Pm: ")#asking user to enter am_or_pm
-# os.system('clear')
+
 print("Waiting for time to ring", alarmHour, alarmMin, Am_or_Pm)
 #checking  for 12 hours or 24 hours format
 if(Am_or_Pm == "Pm"):
