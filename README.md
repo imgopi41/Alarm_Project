@@ -10,9 +10,9 @@ mp3 file is played, to notify the user that given input is matched with alarm ti
 
 **II. Technology Stack**
 
-Language: Python(3.6)
+Language: Python
 
-IDE used: Pycharm
+IDE used: Pycharm(3.6)
 
 
 **III. Workflow**
